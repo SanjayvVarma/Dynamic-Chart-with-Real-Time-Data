@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(243, 255, 243);
+}
+div {
+    width: 75%;
+    margin: auto;
+
+}
+
+#realTimeChart {
+    max-width: 100%;
+    height: auto;
+}
